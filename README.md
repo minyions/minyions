@@ -1,2 +1,3 @@
 ![art by: @a_DespicableMe on X](https://github.com/minyions/minyions/blob/52fe49d1b57a0d717803acd1e79fd09c0da75b65/ezgif-735fe4f1c0087999.gif)
 ‎  <div align="center"> <a href="https://fluffle.cc/kevstu"> <img src="https://img.shields.io/badge/-fluffle.cc-717F97?style=for-the-badge" width="150" height="60"> </a> ‎ ‎  ‎ ‎  ‎ ‎  ‎ <a href="https://en.pronouns.page/@oiscar"> <img src="https://img.shields.io/badge/-prns.page-FFFED2?style=for-the-badge" width="150" height="60"> </a> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/minyions/minyions/29e47e65d722a637a62f345c8cba4438293097cc/ezgif-3be383afdf133032.gif" width="300" height="300">
