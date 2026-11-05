@@ -1,5 +1,5 @@
-![image alt](https://github.com/minyions/minyions/blob/371d4264fe6ef8f4b67e9f91bec5c34398800a96/ezgif-7f5e7ce132dff5d4.gif)
-  
+![art by: @a_DespicableMe on X](https://github.com/minyions/minyions/blob/371d4264fe6ef8f4b67e9f91bec5c34398800a96/ezgif-7f5e7ce132dff5d4.gif)
+[![](https://img.shields.io/badge/-fluffle.cc-717F97?style=for-the-badge)](https://fluffle.cc/kevstu)
 <!--
 **minyions/minyions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
