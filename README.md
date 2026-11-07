@@ -3,3 +3,4 @@
 <div align="center"> <img 
  <div align="center">  <a href="https://whatsapp.com/channel/0029VbBqLrV0wajqbKKegp0c"> <img src="https://img.shields.io/badge/-whatsapp ch-717F97?style=for-the-badge" width="250" height="60"> </a> </div>
 <div align="center"> <img src="https://github.com/minyions/minyions/blob/3954562a908ee639e3bf1dde7c7d06354d7b74bc/ezgif.com-crop.gif" width="300" height="300">
+‎ ‎<div align="center" <img src="https://github.com/minyions/minyions/blob/3954562a908ee639e3bf1dde7c7d06354d7b74bc/ezgif.com-crop.gif"
